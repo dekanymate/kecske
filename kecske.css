@@ -48,3 +48,8 @@ img {
 p {
     text-align: center;
 }
+
+.kiemel {
+    border: red solid 1px;
+    cursor: grab;
+}
